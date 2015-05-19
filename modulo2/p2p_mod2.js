@@ -20,7 +20,7 @@ function agenda (titulo, inic) {
 }
 var amigos = agenda ("Amigos",
              { Pepe: 113278561,
-               José: 157845123,C:\xampp\nodejs\
+               José: 157845123,
                Jesús: 178512355
              });
 
