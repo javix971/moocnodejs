@@ -14,7 +14,7 @@ function agenda (titulo, inic) {
                   											listado = listado + i + ": " + _contenido[i] + "\n";
                   											//Cada iteración, concatenamos la nueva entrada de la agenda
                   											}
-                  									 return listado; //devolvemos el string con la agenda
+                  									 return listado; //devolvemos el string con la agenda//
                                    }
   };
 }
